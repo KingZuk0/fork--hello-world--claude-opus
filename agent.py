@@ -1,5 +1,5 @@
 def get_message() -> str:
-    return "hello"
+    return "Hello from Hive!"
 
 
 if __name__ == "__main__":
